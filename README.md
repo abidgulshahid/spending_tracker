@@ -1,8 +1,11 @@
-# spendiing_tracker
+## This is Just a Empty Model. Whole Project Soon to be uploaded. 
+
+###  spendiing_tracker
 
 A new Flutter project.
 
-## Getting Started
+
+***Getting Started***
 
 This project is a starting point for a Flutter application.
 
